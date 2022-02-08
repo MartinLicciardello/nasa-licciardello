@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nasa-licciardello/static/css/main.02153dab.css",
+    "main.js": "/nasa-licciardello/static/js/main.b9d6fb91.js",
+    "static/js/787.b7cf0f78.chunk.js": "/nasa-licciardello/static/js/787.b7cf0f78.chunk.js",
+    "static/media/NASA_logo.png": "/nasa-licciardello/static/media/NASA_logo.f1f2b85c9d79ca114e99.png",
+    "index.html": "/nasa-licciardello/index.html",
+    "main.02153dab.css.map": "/nasa-licciardello/static/css/main.02153dab.css.map",
+    "main.b9d6fb91.js.map": "/nasa-licciardello/static/js/main.b9d6fb91.js.map",
+    "787.b7cf0f78.chunk.js.map": "/nasa-licciardello/static/js/787.b7cf0f78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02153dab.css",
+    "static/js/main.b9d6fb91.js"
+  ]
+}
